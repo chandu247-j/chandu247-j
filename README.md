@@ -1,5 +1,6 @@
-# 💫 About Me:
-🎓B.Tech. Computer Science Graduate<br>UI/UX & Product Designer — I design end-to-end web and mobile <br>experiences, from the first wireframe to the pixel that ships.<br>🎨 Focused on editorial web layouts, complex data systems, and task-focused mobile interfaces<br>🛠️ Building in Figma, thinking in systems<br>📌 Based in India · Available for full-time roles & internships<br>💬 Ask me about product design, UX flows, or design systems<br>
+### Hi, I'm Chandu 👋
+ 
+I'm Chandu Manjula, a UI/UX Designer passionate about creating simple, intuitive, and user-friendly digital experiences. I enjoy turning ideas into clean design.<br>🎨 Focused on editorial web layouts, complex data systems, and task-focused mobile interfaces<br>🛠️ Building in Figma, thinking in systems<br>📌 Based in India · Available for full-time roles & internships<br>💬 Ask me about product design, UX flows, or design systems<br>
 
 
 ## 🌐 Socials:
